@@ -10,7 +10,7 @@ public class Exercise1 {
      */
     public static long sum(int first, int last) {
         long result = 0;
-        // TODO
+        // TODO: still thinking about what to do actually... :D
         return result;
     }
 }
